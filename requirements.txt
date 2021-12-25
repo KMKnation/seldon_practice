@@ -1,0 +1,2 @@
+numpy==1.19.5
+seldon-core==1.12.0
